@@ -1,0 +1,15 @@
+// sizes of resolution
+$c-small-screen: 420px;
+$small-screen: 600px;
+$c-medium-screen: 750px;
+$medium-screen: 990px;
+$large-screen: 1200px;
+
+// colors
+$c-black: #000;
+$c-white: #fff;
+$c-pink: #f51e92;
+// $c-pink-dark: #ce0245;
+$c-gray: #777;
+$c-gray-light: lighten($c-gray, 30%);
+$c-gray-very-light: lighten($c-gray, 45%);

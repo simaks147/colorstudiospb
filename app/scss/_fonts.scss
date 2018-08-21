@@ -1,0 +1,193 @@
+@font-face {
+	font-family: 'Bw Surco DEMO Book';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Book.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Book.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Book.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Book.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Book.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Book.svg#BwSurcoDEMO-Book') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Medium.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Medium.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Medium.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Medium.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Medium.svg#BwSurcoDEMO-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Regular.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Regular.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Regular.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Regular.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Regular.svg#BwSurcoDEMO-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO Book';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BookItalic.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BookItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BookItalic.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BookItalic.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BookItalic.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BookItalic.svg#BwSurcoDEMO-BookItalic') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Light.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Light.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Light.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Light.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Light.svg#BwSurcoDEMO-Light') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BlackItalic.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BlackItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BlackItalic.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BlackItalic.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BlackItalic.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BlackItalic.svg#BwSurcoDEMO-BlackItalic') format('svg');
+	font-weight: 900;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Bold.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Bold.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Bold.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Bold.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Bold.svg#BwSurcoDEMO-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Black.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Black.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Black.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Black.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Black.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-Black.svg#BwSurcoDEMO-Black') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-RegularItalic.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-RegularItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-RegularItalic.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-RegularItalic.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-RegularItalic.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-RegularItalic.svg#BwSurcoDEMO-RegularItalic') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BoldItalic.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BoldItalic.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BoldItalic.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BoldItalic.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-BoldItalic.svg#BwSurcoDEMO-BoldItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-LightItalic.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-LightItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-LightItalic.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-LightItalic.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-LightItalic.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-LightItalic.svg#BwSurcoDEMO-LightItalic') format('svg');
+	font-weight: 100;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Bw Surco DEMO';
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-MediumItalic.eot');
+	src: url('../fonts/BwSurcoDEMO/BwSurcoDEMO-MediumItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-MediumItalic.woff2') format('woff2'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-MediumItalic.woff') format('woff'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-MediumItalic.ttf') format('truetype'),
+		url('../fonts/BwSurcoDEMO/BwSurcoDEMO-MediumItalic.svg#BwSurcoDEMO-MediumItalic') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+
+
+
+@font-face {
+	font-family: 'Century Schoolbook';
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook-BoldItalic.eot');
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-BoldItalic.woff2') format('woff2'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-BoldItalic.woff') format('woff'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-BoldItalic.ttf') format('truetype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-BoldItalic.svg#CenturySchoolbook-BoldItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Century Schoolbook';
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook-Bold.eot');
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Bold.woff2') format('woff2'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Bold.woff') format('woff'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Bold.ttf') format('truetype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Bold.svg#CenturySchoolbook-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Century Schoolbook';
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook-Italic.eot');
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook-Italic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Italic.woff2') format('woff2'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Italic.woff') format('woff'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Italic.ttf') format('truetype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook-Italic.svg#CenturySchoolbook-Italic') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Century Schoolbook';
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook.eot');
+	src: url('../fonts/CenturySchoolbook/CenturySchoolbook.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook.woff2') format('woff2'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook.woff') format('woff'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook.ttf') format('truetype'),
+		url('../fonts/CenturySchoolbook/CenturySchoolbook.svg#CenturySchoolbook') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
